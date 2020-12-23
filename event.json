@@ -38,5 +38,13 @@
     "body": "Appointment Details 5",
     "from": "2020-12-14 09:19:06",
     "to": "2020-12-14 10:32:23"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "Picnic 5",
+    "body": "Appointment Details 5",
+    "from": "2020-12-14 07:19:06",
+    "to": "2020-12-14 08:32:23"
   }
 ]
