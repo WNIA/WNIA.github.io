@@ -12,16 +12,16 @@
     "id": 2,
     "title": "Appointment 2",
     "body": "Appointment Details 2",
-    "from": "2020-12-29 8:40:45",
-    "to": "2020-12-29 8:55:45"
+    "from": "2020-12-29 08:40:45",
+    "to": "2020-12-29 08:55:45"
   },
   {
     "userId": 1,
     "id": 3,
     "title": "Appointment 3",
     "body": "Appointment Details 3",
-    "from": "2021-01-07 4:30:01",
-    "to": "2021-01-07 6:17:09"
+    "from": "2021-01-07 04:30:01",
+    "to": "2021-01-07 06:17:09"
   },
   {
     "userId": 1,
@@ -36,7 +36,7 @@
     "id": 5,
     "title": "Appointment 5",
     "body": "Appointment Details 5",
-    "from": "2020-12-14 9:19:06",
+    "from": "2020-12-14 09:19:06",
     "to": "2020-12-14 10:32:23"
   }
 ]
